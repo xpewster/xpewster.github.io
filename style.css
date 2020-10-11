@@ -15,6 +15,7 @@ html {font-size: 1em}
 .centerpiece h1{ font-size: 75px; }
 .centerpiece .desc p{ font-size: 16px; }
 .centerpiece ul{ font-size: 18px; }
+.pl2 {min-width: 125px;}
 
 .effect a {
     width: 40px;
@@ -22,6 +23,7 @@ html {font-size: 1em}
     margin-right: 15px;
     font-size: 20px;
 }
+
 
 
 @media (min-width: 576px) {
@@ -35,6 +37,7 @@ html {font-size: 1em}
 	.centerpiece h1{ font-size: 100px; }
 	.centerpiece .desc p{ font-size: 18px; }
 	.centerpiece ul{ font-size: 22px; }
+	.pl2 {min-width: 90px;}
 	.effect a {
 	    width: 50px;
 	    height: 50px;
@@ -68,6 +71,7 @@ html, body {
 	background-color: #000000;
 	color: #ffffff;
 	font-family: MuseoSans;
+	scroll-behavior: smooth;
 }
 
 
@@ -157,7 +161,7 @@ html, body {
 
 /* not the landing container*/
 .nl {
-	padding: 35px 7% 35px 7%;
+	padding: 35px 7% 50px 7%;
 	margin: 0 auto;
 }
 .nl h2 {
@@ -171,9 +175,6 @@ html, body {
     top: -4px;
     position: relative;
 	min-width: 125px;
-}
-.pl2 {
-	min-width: 90px;
 }
 
 .effect .buttons {
