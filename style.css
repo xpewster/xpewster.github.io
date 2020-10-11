@@ -70,6 +70,10 @@ body {
 	margin: 0;
 }
 
+.centerpiece ul{
+	padding-inline-start:0;
+}
+
 .centerpiece li{
 	display:inline;
 	text-transform: uppercase;
@@ -95,9 +99,6 @@ body {
 	margin: 0 auto;
 }
 
-.effect {
-  width: 100%;
-}
 
 .effect .buttons {
   margin: auto;
