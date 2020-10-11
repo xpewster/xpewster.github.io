@@ -16,6 +16,7 @@ html {font-size: 1em}
 .centerpiece .desc p{ font-size: 16px; }
 .centerpiece ul{ font-size: 18px; }
 .pl2 {min-width: 125px;}
+.scroll-top {width: 40px; height: 40px;}
 
 .effect a {
     width: 40px;
@@ -31,6 +32,7 @@ html {font-size: 1em}
 	.centerpiece h1{ font-size: 85px; }
 	.centerpiece .desc p{ font-size: 17px; }
 	.centerpiece ul{ font-size: 20px; }
+	.scroll-top {width: 50px; height: 50px;}
 }
 @media (min-width: 768px) {
     html { font-size: 1.1em; }
@@ -38,6 +40,7 @@ html {font-size: 1em}
 	.centerpiece .desc p{ font-size: 18px; }
 	.centerpiece ul{ font-size: 22px; }
 	.pl2 {min-width: 90px;}
+	.scroll-top {width: 60px; height: 60px;}
 	.effect a {
 	    width: 50px;
 	    height: 50px;
@@ -50,6 +53,7 @@ html {font-size: 1em}
 	.centerpiece h1{ font-size: 120px; }
 	.centerpiece .desc p{ font-size: 20px; }
 	.centerpiece ul{ font-size: 24px; }
+	.scroll-top {width: 70px; height: 70px;}
 	.effect a {
 	    width: 60px;
 	    height: 60px;
@@ -61,6 +65,7 @@ html {font-size: 1em}
     html { font-size: 1.25em; }
 	.centerpiece h1{ font-size: 130px; }
 	.centerpiece .desc p{ font-size: 22px; }
+	.scroll-top {width: 75px; height: 75px;}
 }
 
 html, body {
@@ -233,4 +238,15 @@ html, body {
 }
 .effect.thurio a:hover {
   border-radius: 0px;
+}
+
+.scroll-top {
+  position: fixed;
+  bottom: 20px;
+  right: 15px;
+  display: none;
+}
+.scroll-top i {
+  display: inline-block;
+  color: #fff;
 }
