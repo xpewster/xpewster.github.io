@@ -13,14 +13,14 @@
 
 body {
     height: 100vh;
-    background-image: url('images/austin.jpg');
+    background-image: url('images/m33.jpg');
     background-size: cover;
 	background-position: center;
     background-repeat: no-repeat;
     font-family: MuseoSans;
 	padding:0;
 	margin:0;
-	
+	color: #ffffff
 }
 
 .container{
@@ -29,6 +29,28 @@ body {
 	overflow:hidden;
 }
 
-.cpname {
-  letter-spacing: 20px;
+.centerpiece {
+	text-align: center;
+}
+
+.centerpiece h1{
+	letter-spacing: 6px;
+	font-size: 130px;
+	line-height: 1.2em;
+	font-family: Ambroise;
+	text-transform: lowercase;
+}
+
+.centerpiece h2{
+	letter-spacing: 2px;
+	font-size: 22px;
+	font-family: MuseoSans;
+}
+
+.centerpiece li{
+	display:inline;
+}
+
+#socials li{
+	display:inline;
 }
