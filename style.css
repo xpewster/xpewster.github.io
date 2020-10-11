@@ -11,22 +11,47 @@
     src: url("fonts/Futura PT Book.otf") format("opentype");
 }
 
-body {
+html {font-size: 1.1em}
+.centerpiece h1{ font-size: 75px; }
+.centerpiece .desc p{ font-size: 16px; }
+
+@media (min-width: 576px) {
+    html { font-size: 1.2em; }
+	.centerpiece h1{ font-size: 85px; }
+	.centerpiece .desc p{ font-size: 17px; }
+}
+@media (min-width: 768px) {
+    html { font-size: 1.3em; }
+	.centerpiece h1{ font-size: 100px; }
+	.centerpiece .desc p{ font-size: 18px; }
+}
+@media (min-width: 992px) {
+    html { font-size: 1.45em; }
+	.centerpiece h1{ font-size: 120px; }
+	.centerpiece .desc p{ font-size: 20px; }
+}
+@media (min-width: 1200px) {
+    html { font-size: 1.5em; }
+	.centerpiece h1{ font-size: 130px; }
+	.centerpiece .desc p{ font-size: 22px; }
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
 	padding:0;
 	margin:0;
 	background-color: #000000;
-	
 }
-
+/*
 .container{
-	width:80%;
 	margin:auto;
 	overflow:hidden;
-}
+	box-sizing: border-box;
+}*/
 
 .landing{
 	height: 100vh;
-	width: 100vw;
 	background-image: url('images/m33.jpg');
     background-size: cover;
 	background-position: center;
@@ -49,9 +74,9 @@ body {
 	transform: translatey(-50%);
 }
 
+
 .centerpiece h1{
 	letter-spacing: 6px;
-	font-size: 130px;
 	line-height: 1.2em;
 	font-family: Ambroise;
 	text-transform: lowercase;
@@ -66,7 +91,6 @@ body {
 
 .centerpiece .desc p{
 	letter-spacing: 2px;
-	font-size: 22px;
 	line-height: 1.2em;
 	font-family: MuseoSans;
 	margin: 0;
@@ -93,12 +117,11 @@ body {
 
 #socials {
 	position: absolute;
-	width: 100%;
+	margin: 0 auto;
 	max-width: 880px;
 	left: 60px;
 	right: 60px;
 	bottom: 60px;
-	margin: 0 auto;
 }
 
 
