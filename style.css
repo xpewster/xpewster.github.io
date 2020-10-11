@@ -11,9 +11,10 @@
     src: url("fonts/Futura PT Book.otf") format("opentype");
 }
 
-html {font-size: 1.1em}
+html {font-size: 1em}
 .centerpiece h1{ font-size: 75px; }
 .centerpiece .desc p{ font-size: 16px; }
+.centerpiece ul{ font-size: 18px; }
 
 .effect a {
     width: 40px;
@@ -24,14 +25,16 @@ html {font-size: 1.1em}
 
 
 @media (min-width: 576px) {
-    html { font-size: 1.2em; }
+    html { font-size: 1em; }
 	.centerpiece h1{ font-size: 85px; }
 	.centerpiece .desc p{ font-size: 17px; }
+	.centerpiece ul{ font-size: 20px; }
 }
 @media (min-width: 768px) {
-    html { font-size: 1.3em; }
+    html { font-size: 1.1em; }
 	.centerpiece h1{ font-size: 100px; }
 	.centerpiece .desc p{ font-size: 18px; }
+	.centerpiece ul{ font-size: 22px; }
 	.effect a {
 	    width: 50px;
 	    height: 50px;
@@ -40,9 +43,10 @@ html {font-size: 1.1em}
 	}
 }
 @media (min-width: 992px) {
-    html { font-size: 1.45em; }
+    html { font-size: 1.2em; }
 	.centerpiece h1{ font-size: 120px; }
 	.centerpiece .desc p{ font-size: 20px; }
+	.centerpiece ul{ font-size: 24px; }
 	.effect a {
 	    width: 60px;
 	    height: 60px;
@@ -51,7 +55,7 @@ html {font-size: 1.1em}
 	}
 }
 @media (min-width: 1200px) {
-    html { font-size: 1.5em; }
+    html { font-size: 1.25em; }
 	.centerpiece h1{ font-size: 130px; }
 	.centerpiece .desc p{ font-size: 22px; }
 }
@@ -62,13 +66,15 @@ html, body {
 	padding:0;
 	margin:0;
 	background-color: #000000;
+	color: #ffffff;
+	font-family: MuseoSans;
 }
-/*
+
+
 .container{
-	margin:auto;
 	overflow:hidden;
 	box-sizing: border-box;
-}*/
+}
 
 .landing{
 	height: 100vh;
@@ -76,10 +82,8 @@ html, body {
     background-size: cover;
 	background-position: center;
     background-repeat: no-repeat;
-	font-family: MuseoSans;
 	padding:0;
 	margin:0 auto;
-	color: #ffffff;
 	text-align: center;
 }
 
@@ -144,6 +148,33 @@ html, body {
 	bottom: 7%;
 }
 
+.light {
+	background-color: #6e6c68;
+}
+.dark {
+	background-color: #292827;
+}
+
+/* not the landing container*/
+.nl {
+	padding: 35px 7% 35px 7%;
+	margin: 0 auto;
+}
+.nl h2 {
+	margin-bottom: 50px;
+}
+
+.progress-label {
+	padding: 0px 10px;
+    float: left;
+    margin-bottom: 0px;
+    top: -4px;
+    position: relative;
+	min-width: 125px;
+}
+.pl2 {
+	min-width: 90px;
+}
 
 .effect .buttons {
   margin: auto;
