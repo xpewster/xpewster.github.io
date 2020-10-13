@@ -179,7 +179,7 @@ html, body {
 	margin-bottom: 50px;
 }
 
-
+/*skills*/
 .progress-label {
 	padding: 0px 10px;
     float: left;
@@ -197,13 +197,20 @@ html, body {
     position: relative;
 }
 
+/*portfolio*/
+.preview {
+	width: 100%;
+	height: auto;
+}
+
+
 /* contact */
 .nlc {
 	padding: 35px 7% 50px 7%;
 	margin: 0 auto;
 }
 .nlc hr{
-	border-top: 1px solid #454341;
+	border-top: 1px solid #333230;
 }
 .nlc p{
 	color: #8c8984;
@@ -213,9 +220,10 @@ html, body {
 	margin: 0 auto;
 }
 .nlc li{
-	display: inline;
+	display: inline-table;
 	padding-left: 2rem;
 	padding-right: 2rem;
+	white-space: nowrap;
 }
 .nlc .fa {
   display: inline-block;
@@ -233,6 +241,22 @@ html, body {
 	text-decoration: none;
 	color: #dbdad9;
 }
+
+.nlc .icon {
+	background-size: 32px 32px;
+    height: 32px;
+    width: 32px;
+    display: inline-block;
+	vertical-align: middle;
+	margin-right: 10px;
+	float: left;
+}
+
+.ema {background: url('images/envelope.png') no-repeat;}
+.twi {background: url('images/twitter.png') no-repeat;}
+.fbk {background: url('images/facebook.png') no-repeat;}
+.linkedin {background: url('images/linkedin.png') no-repeat;}
+
 .darkp {
 	color: #6e6c68;
 	text-align: center;
@@ -298,6 +322,7 @@ html, body {
   border-radius: 0px;
 }
 
+/* scroll to top button */
 .scroll-top {
   position: fixed;
   bottom: 20px;
