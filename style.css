@@ -166,6 +166,9 @@ html, body {
 .dark {
 	background-color: #292827;
 }
+.med {
+	background-color: #3b3937;
+}
 
 /* not the landing container*/
 .nl {
@@ -175,6 +178,7 @@ html, body {
 .nl h2 {
 	margin-bottom: 50px;
 }
+
 
 .progress-label {
 	padding: 0px 10px;
@@ -193,6 +197,49 @@ html, body {
     position: relative;
 }
 
+/* contact */
+.nlc {
+	padding: 35px 7% 50px 7%;
+	margin: 0 auto;
+}
+.nlc hr{
+	border-top: 1px solid #454341;
+}
+.nlc p{
+	color: #8c8984;
+}
+.nlc ul{
+	display: table;
+	margin: 0 auto;
+}
+.nlc li{
+	display: inline;
+	padding-left: 2rem;
+	padding-right: 2rem;
+}
+.nlc .fa {
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px #888;
+  padding: 0.5em 0.6em;
+}
+.nlc .icon-background{
+	color: #fff;
+}
+.nlc a{
+	color: #b8b8b4;
+}
+.nlc a:hover{
+	text-decoration: none;
+	color: #dbdad9;
+}
+.darkp {
+	color: #6e6c68;
+	text-align: center;
+	margin-top: 2.5rem;
+}
+
+/* effects */
 .effect .buttons {
   margin: auto;
   display: flex;
