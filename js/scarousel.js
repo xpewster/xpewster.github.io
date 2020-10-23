@@ -25,4 +25,11 @@ $(document).ready(function(){
 	  }
 	]
   });
+  
+  $('#sc0').show();
+  
+  $('.portfoliocar').on('afterChange', function(event, slick, currentSlide){
+	  $('.sc').hide();
+	  $('#sc'+currentSlide).fadeIn();
+	});
 });

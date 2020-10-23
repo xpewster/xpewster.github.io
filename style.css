@@ -7,9 +7,10 @@
     src: url("fonts/Museo Sans 100 Regular.otf") format("opentype");
 }
 @font-face {
-    font-family: Futura;
-    src: url("fonts/Futura PT Book.otf") format("opentype");
+    font-family: Karma;
+    src: url("fonts/karma.future.ttf");
 }
+
 
 html {font-size: 1em}
 .centerpiece h1{ font-size: 75px; }
@@ -224,14 +225,75 @@ html, body {
 	margin-left:30px !important;
     margin: 0 -20px;
 }
-.portfoliocar:before, .portfoliocar:after{
-	opacity: 0.6;
+.sc{
+	display: none;
+	position: relative;
+	background-color:#292827;
+	padding-top: 0.5rem;
+	margin-top: 0.5rem;
+	padding-bottom: 2rem;
+	margin-bottom: 0.5rem;
 }
+.sc0{
+	display: block;
+}
+
+
+
+/*.dd{
+	content: "\F077";  /* this is your text. You can also use UTF-8 character codes as I do here 
+    font-family: FontAwesome;
+}*/
+
+.dd:hover{
+	cursor:pointer;
+}
+/*.pcenter .collapsed{
+	content: "\F078";  /* this is your text. You can also use UTF-8 character codes as I do here 
+    font-family: FontAwesome;
+    /*left:-5px;
+    position:absolute;
+    top:0;
+}*/
+
+
 
 .pcenter{
 	margin: 0 auto;
 	text-align:center;
 }
+.pcenter h1{
+	font-family: Karma;
+	margin-top: 1.5rem;
+	
+}
+.pcenter .badge{
+	margin-right: 4px;
+	margin-left: 3px;
+	margin-bottom: 7px;
+	
+}
+.pcenter hr{
+	border-top: 1px solid #919191;
+}
+.pcenter ul{
+	display: inline;
+	padding-inline-start: 0;
+}
+.scimg {
+	width: 30%;
+	height: auto;
+	margin-right: 2px;
+	margin-left: 2px;
+	border: 3px solid #555;
+}
+.scdesc{
+	text-align: justify;
+	font-family: MuseoSans;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
 
 
 /* contact */
