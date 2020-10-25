@@ -6,10 +6,6 @@
     font-family: MuseoSans;
     src: url("fonts/Museo Sans 100 Regular.otf") format("opentype");
 }
-@font-face {
-    font-family: Karma;
-    src: url("fonts/karma.future.ttf");
-}
 
 
 html {font-size: 1em}
@@ -263,7 +259,7 @@ html, body {
 	text-align:center;
 }
 .pcenter h1{
-	font-family: Karma;
+	font-family: MuseoSans;
 	margin-top: 1.5rem;
 	
 }
