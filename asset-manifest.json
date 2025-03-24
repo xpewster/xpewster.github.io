@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9c4409b2.css",
-    "main.js": "/static/js/main.abec4993.js",
+    "main.js": "/static/js/main.05d69806.js",
     "static/js/453.26410147.chunk.js": "/static/js/453.26410147.chunk.js",
     "static/media/03202025.png": "/static/media/03202025.73b65e79bc9fcf61d71d.png",
     "static/media/03202025_world.png": "/static/media/03202025_world.60b02cc56deb784ba2bb.png",
@@ -20,6 +20,7 @@
     "static/media/P1000886.jpg": "/static/media/P1000886.fbe3ac918abf94e27d97.jpg",
     "static/media/brazilcheat.png": "/static/media/brazilcheat.67b49b15aa963a01a43e.png",
     "static/media/P1000821.jpg": "/static/media/P1000821.98ede3b083b17c52e5d8.jpg",
+    "static/media/cepcodes.png": "/static/media/cepcodes.4d32f489a813fd0e62ec.png",
     "static/media/reg2010.png": "/static/media/reg2010.20cf20ec9792aac77294.png",
     "static/media/P1000921.jpg": "/static/media/P1000921.5cac0519e19147867d45.jpg",
     "static/media/P1000838.jpg": "/static/media/P1000838.29133af09b5f2d8bf0be.jpg",
@@ -296,11 +297,11 @@
     "static/media/go3_xgeo.png": "/static/media/go3_xgeo.06391ebe3612b64dcb7f.png",
     "index.html": "/index.html",
     "main.9c4409b2.css.map": "/static/css/main.9c4409b2.css.map",
-    "main.abec4993.js.map": "/static/js/main.abec4993.js.map",
+    "main.05d69806.js.map": "/static/js/main.05d69806.js.map",
     "453.26410147.chunk.js.map": "/static/js/453.26410147.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c4409b2.css",
-    "static/js/main.abec4993.js"
+    "static/js/main.05d69806.js"
   ]
 }
