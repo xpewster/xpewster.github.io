@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.22a5f0c3.css",
-    "main.js": "/static/js/main.f4adce36.js",
+    "main.js": "/static/js/main.54fb2287.js",
     "static/media/03202025.png": "/static/media/03202025.99f221d7ab1673803060.png",
     "static/media/03202025_world.png": "/static/media/03202025_world.42f97406649a2d057878.png",
     "static/media/P1000858.jpg": "/static/media/P1000858.502e8be37895f22f9e5f.jpg",
@@ -317,7 +317,6 @@
     "static/media/blur2016_2.png": "/static/media/blur2016_2.095818d533e2633b5954.png",
     "static/media/ic2574.jpg": "/static/media/ic2574.d3a6e627211a6b3c6f82.jpg",
     "static/media/reg1984.png": "/static/media/reg1984.10cadfac02f0d22172c5.png",
-    "static/media/put-litter-in-its-place.png": "/static/media/put-litter-in-its-place.5920b3a4d15b1a184d75.png",
     "static/media/blur1986.png": "/static/media/blur1986.9eba34cdd91c7c15c033.png",
     "static/media/m53.jpg": "/static/media/m53.881aace9a9fc13b4f87d.jpg",
     "static/media/blank1998.png": "/static/media/blank1998.f53579ca04c1148e969b.png",
@@ -498,7 +497,6 @@
     "static/media/zip.png": "/static/media/zip.43f92e1069efffedad90.png",
     "static/media/word.png": "/static/media/word.8d07854842e26b9b1c36.png",
     "static/media/shortcut.png": "/static/media/shortcut.26f4abe08acaa1cad17f.png",
-    "static/media/sticky.gif": "/static/media/sticky.bbdd952e60c56f771989.gif",
     "static/media/american_samoa.png": "/static/media/american_samoa.757d34cbb89cb60c678c.png",
     "static/media/ct.png": "/static/media/ct.cbdc754b6742cd9e5d6b.png",
     "static/media/ga.png": "/static/media/ga.b4f9bedc23a9a65083a0.png",
@@ -521,10 +519,10 @@
     "static/media/go3_xgeo.png": "/static/media/go3_xgeo.06391ebe3612b64dcb7f.png",
     "index.html": "/index.html",
     "main.22a5f0c3.css.map": "/static/css/main.22a5f0c3.css.map",
-    "main.f4adce36.js.map": "/static/js/main.f4adce36.js.map"
+    "main.54fb2287.js.map": "/static/js/main.54fb2287.js.map"
   },
   "entrypoints": [
     "static/css/main.22a5f0c3.css",
-    "static/js/main.f4adce36.js"
+    "static/js/main.54fb2287.js"
   ]
 }
