@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3860da78.css",
-    "main.js": "/static/js/main.b70e30fd.js",
+    "main.css": "/static/css/main.52518b7a.css",
+    "main.js": "/static/js/main.7800708e.js",
     "static/media/03202025.png": "/static/media/03202025.99f221d7ab1673803060.png",
     "static/media/03202025_world.png": "/static/media/03202025_world.42f97406649a2d057878.png",
     "static/media/P1000858.jpg": "/static/media/P1000858.502e8be37895f22f9e5f.jpg",
@@ -38,9 +38,11 @@
     "static/media/ngc6397.png": "/static/media/ngc6397.b80709d11ccdac9445cd.png",
     "static/media/ngc3532.png": "/static/media/ngc3532.1803ada42ce2f9c5e9d9.png",
     "static/media/missilecave2.png": "/static/media/missilecave2.bf68552cacf82e57c15c.png",
+    "static/media/us-area-code-map.png": "/static/media/us-area-code-map.1d6004d3584431dfba30.png",
     "static/media/m27.png": "/static/media/m27.5680ba0a901a39aa9e04.png",
     "static/media/P1000921.jpg": "/static/media/P1000921.5cac0519e19147867d45.jpg",
     "static/media/peturland1.png": "/static/media/peturland1.2cc51322c04fb41ce28c.png",
+    "static/media/canada-area-code-map.png": "/static/media/canada-area-code-map.19ce0192d91246ceb539.png",
     "static/media/ngc3603.png": "/static/media/ngc3603.18fecbf667ded0b0625d.png",
     "static/media/ngc5822.png": "/static/media/ngc5822.1a8ff7e826ac686cf34d.png",
     "static/media/P1000838.jpg": "/static/media/P1000838.29133af09b5f2d8bf0be.jpg",
@@ -568,6 +570,7 @@
     "static/media/tn2.png": "/static/media/tn2.70188b9b9a72663169c1.png",
     "static/media/mk3.png": "/static/media/mk3.58305df8f0bbbac8ca6c.png",
     "static/media/on.jpg": "/static/media/on.107d580fd99abe8f5dc0.jpg",
+    "static/media/navigatehere.png": "/static/media/navigatehere.63a53d07bd0beb297703.png",
     "static/media/MAIL.gif": "/static/media/MAIL.d33542b42c737102de00.gif",
     "static/media/basiic.ttf": "/static/media/basiic.5e13dfe4a6892d0a909b.ttf",
     "static/media/brief.png": "/static/media/brief.42f60f863d16bd151e1a.png",
@@ -603,11 +606,11 @@
     "static/media/mc.png": "/static/media/mc.7899475f6240ba0722af.png",
     "static/media/go3_xgeo.png": "/static/media/go3_xgeo.06391ebe3612b64dcb7f.png",
     "index.html": "/index.html",
-    "main.3860da78.css.map": "/static/css/main.3860da78.css.map",
-    "main.b70e30fd.js.map": "/static/js/main.b70e30fd.js.map"
+    "main.52518b7a.css.map": "/static/css/main.52518b7a.css.map",
+    "main.7800708e.js.map": "/static/js/main.7800708e.js.map"
   },
   "entrypoints": [
-    "static/css/main.3860da78.css",
-    "static/js/main.b70e30fd.js"
+    "static/css/main.52518b7a.css",
+    "static/js/main.7800708e.js"
   ]
 }
