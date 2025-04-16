@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8a615f4d.css",
-    "main.js": "/static/js/main.b62fe7d2.js",
+    "main.js": "/static/js/main.7fbe07d4.js",
     "static/media/03202025.png": "/static/media/03202025.99f221d7ab1673803060.png",
     "static/media/03202025_world.png": "/static/media/03202025_world.42f97406649a2d057878.png",
     "static/media/P1000858.jpg": "/static/media/P1000858.502e8be37895f22f9e5f.jpg",
@@ -62,7 +62,7 @@
     "static/media/ngc869.jpg": "/static/media/ngc869.d3d903821c8101c93a6b.jpg",
     "static/media/ngc884.jpg": "/static/media/ngc884.d3d903821c8101c93a6b.jpg",
     "static/media/mizar_and_alcor.jpg": "/static/media/mizar_and_alcor.445fa521fb2f0b7ae2c1.jpg",
-    "static/media/mong_centralwest.png": "/static/media/mong_centralwest.b1bb67ecb27eec9beef0.png",
+    "static/media/mong_westranges.png": "/static/media/mong_westranges.b1bb67ecb27eec9beef0.png",
     "static/media/ngc3766.jpg": "/static/media/ngc3766.dbedc237496d001379f9.jpg",
     "static/media/m6.png": "/static/media/m6.b31e98a8b8533b8972bc.png",
     "static/media/ngc6752.jpg": "/static/media/ngc6752.aa095f02912452de215b.jpg",
@@ -95,6 +95,7 @@
     "static/media/ngc2438.jpg": "/static/media/ngc2438.75def1897898c632db09.jpg",
     "static/media/m41.jpg": "/static/media/m41.98ded0e42765889edb51.jpg",
     "static/media/ngc6541.jpg": "/static/media/ngc6541.df1fc72c3df6b005add1.jpg",
+    "static/media/mong_centralwest.png": "/static/media/mong_centralwest.10286fd2b664aac1f3ca.png",
     "static/media/ngc6760.jpg": "/static/media/ngc6760.1976d50c3767ee8c4bb2.jpg",
     "static/media/in.png": "/static/media/in.dcade44ba690af1fea5c.png",
     "static/media/m25.jpg": "/static/media/m25.1723d3838f97a66ca09b.jpg",
@@ -113,6 +114,7 @@
     "static/media/ngc604.jpg": "/static/media/ngc604.e87cdf5a7a12780f7c22.jpg",
     "static/media/m44.jpg": "/static/media/m44.3fe9253eaac5ea90581e.jpg",
     "static/media/ngc5128.jpg": "/static/media/ngc5128.1571b2cc81c782c7f49a.jpg",
+    "static/media/gen4_grey.png": "/static/media/gen4_grey.ff40ba3ea2df0894f3a1.png",
     "static/media/ngc6819.jpg": "/static/media/ngc6819.3ff05ba2e104ca4cedb6.jpg",
     "static/media/ngc3372.jpg": "/static/media/ngc3372.39dc71b6368d8da62d40.jpg",
     "static/media/ngc5897.jpg": "/static/media/ngc5897.d52484915976fc8000bd.jpg",
@@ -126,6 +128,7 @@
     "static/media/reg1995.png": "/static/media/reg1995.f31eaf46ec0f639f9e94.png",
     "static/media/reg2001.png": "/static/media/reg2001.f12449f62b69d016a9b7.png",
     "static/media/sh2-136.jpg": "/static/media/sh2-136.2e73ec83b4934b9b4af1.jpg",
+    "static/media/camo_car.png": "/static/media/camo_car.2267f77daa82575f75b9.png",
     "static/media/ngc6712.jpg": "/static/media/ngc6712.493be4599dad8de2365b.jpg",
     "static/media/on.png": "/static/media/on.e49c0f696977d863a6a0.png",
     "static/media/m37.jpg": "/static/media/m37.63e0738593d37bb8940c.jpg",
@@ -152,6 +155,7 @@
     "static/media/mong_centralforests.png": "/static/media/mong_centralforests.a3dd3df66e5a739f54d0.png",
     "static/media/ngc457.jpg": "/static/media/ngc457.5c486a6a9bcc06b57549.jpg",
     "static/media/mong_south.png": "/static/media/mong_south.0ea41962a0e7fbe1b547.png",
+    "static/media/link_malta.gif": "/static/media/link_malta.ed20139bd168f004584f.gif",
     "static/media/mong_ulaan.png": "/static/media/mong_ulaan.b5834ad0cfffc54bde2a.png",
     "static/media/blur2006.png": "/static/media/blur2006.a00325a3c19087356d71.png",
     "static/media/ngc7380.jpg": "/static/media/ngc7380.72fab1ddd6c7f151cd28.jpg",
@@ -188,7 +192,9 @@
     "static/media/m95.jpg": "/static/media/m95.dfd3957c9c7172c0a252.jpg",
     "static/media/ngc6334.jpg": "/static/media/ngc6334.cdab64dd3f18b7e54d33.jpg",
     "static/media/blur2009.png": "/static/media/blur2009.1429a4d5a7f4478d9544.png",
+    "static/media/blur2008.png": "/static/media/blur2008.8723277911a5dcb3812c.png",
     "static/media/m31.jpg": "/static/media/m31.223773d94555750da1d2.jpg",
+    "static/media/west_car.png": "/static/media/west_car.cf3a23f6997de3d991d7.png",
     "static/media/reg2012.png": "/static/media/reg2012.a39ef315a3ee7bf6ee0e.png",
     "static/media/blank2021.png": "/static/media/blank2021.cade7f761143c26890d9.png",
     "static/media/m96.jpg": "/static/media/m96.3a6c187f2514e499eda6.jpg",
@@ -200,7 +206,6 @@
     "static/media/reg2002.png": "/static/media/reg2002.b2358816b345fd87c478.png",
     "static/media/blank2015.png": "/static/media/blank2015.1945e1dba785180eebfe.png",
     "static/media/reg2013.png": "/static/media/reg2013.d1abb16fe06bdc9f23d9.png",
-    "static/media/blur2008.png": "/static/media/blur2008.8723277911a5dcb3812c.png",
     "static/media/m92.jpg": "/static/media/m92.8ca9defad53ee1756800.jpg",
     "static/media/blur2010.png": "/static/media/blur2010.6009ee215bf4c9de2f5c.png",
     "static/media/blur2013.png": "/static/media/blur2013.989c3f055cb3c5e442a6.png",
@@ -617,10 +622,10 @@
     "static/media/go3_xgeo.png": "/static/media/go3_xgeo.06391ebe3612b64dcb7f.png",
     "index.html": "/index.html",
     "main.8a615f4d.css.map": "/static/css/main.8a615f4d.css.map",
-    "main.b62fe7d2.js.map": "/static/js/main.b62fe7d2.js.map"
+    "main.7fbe07d4.js.map": "/static/js/main.7fbe07d4.js.map"
   },
   "entrypoints": [
     "static/css/main.8a615f4d.css",
-    "static/js/main.b62fe7d2.js"
+    "static/js/main.7fbe07d4.js"
   ]
 }
