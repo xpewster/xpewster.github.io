@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.8a615f4d.css",
-    "main.js": "/static/js/main.eba92240.js",
-    "static/media/03202025.png": "/static/media/03202025.99f221d7ab1673803060.png",
+    "main.css": "/static/css/main.ae79f43c.css",
+    "main.js": "/static/js/main.6554ccee.js",
+    "static/media/03202025.png": "/static/media/03202025.0276ef21942bd9b6c9da.png",
     "static/media/03202025_world.png": "/static/media/03202025_world.42f97406649a2d057878.png",
     "static/media/P1000858.jpg": "/static/media/P1000858.502e8be37895f22f9e5f.jpg",
     "static/media/P1000710.jpg": "/static/media/P1000710.08e3c5b8ad031f9f6b87.jpg",
@@ -25,7 +25,6 @@
     "static/media/ngc3132.png": "/static/media/ngc3132.a6c62636e99b1bd95df9.png",
     "static/media/m52.png": "/static/media/m52.60263b5c170e6ba0a260.png",
     "static/media/ngc1499.png": "/static/media/ngc1499.4e7e19eae3df2a77ecd1.png",
-    "static/media/cepcodes.png": "/static/media/cepcodes.4d32f489a813fd0e62ec.png",
     "static/media/ic2391.png": "/static/media/ic2391.80d7cde6f84ba8f6f77c.png",
     "static/media/reg2010.png": "/static/media/reg2010.20cf20ec9792aac77294.png",
     "static/media/ngc4147.png": "/static/media/ngc4147.b48436f49df7e56f71c9.png",
@@ -37,7 +36,6 @@
     "static/media/m75.png": "/static/media/m75.f384051f0042f53304aa.png",
     "static/media/ngc6397.png": "/static/media/ngc6397.b80709d11ccdac9445cd.png",
     "static/media/ngc3532.png": "/static/media/ngc3532.1803ada42ce2f9c5e9d9.png",
-    "static/media/missilecave2.png": "/static/media/missilecave2.bf68552cacf82e57c15c.png",
     "static/media/us-area-code-map.png": "/static/media/us-area-code-map.1d6004d3584431dfba30.png",
     "static/media/m27.png": "/static/media/m27.5680ba0a901a39aa9e04.png",
     "static/media/P1000921.jpg": "/static/media/P1000921.5cac0519e19147867d45.jpg",
@@ -45,7 +43,9 @@
     "static/media/canada-area-code-map.png": "/static/media/canada-area-code-map.19ce0192d91246ceb539.png",
     "static/media/ngc3603.png": "/static/media/ngc3603.18fecbf667ded0b0625d.png",
     "static/media/ngc5822.png": "/static/media/ngc5822.1a8ff7e826ac686cf34d.png",
+    "static/media/missilecave2.png": "/static/media/missilecave2.039f73fe074fd0b3abd4.png",
     "static/media/P1000838.jpg": "/static/media/P1000838.29133af09b5f2d8bf0be.jpg",
+    "static/media/cepcodes.png": "/static/media/cepcodes.78135eaa5c3774fefa6a.png",
     "static/media/blur1993.png": "/static/media/blur1993.de6bee4f552e0c46e835.png",
     "static/media/reg1993.png": "/static/media/reg1993.11b43bc35a9d5eb2c790.png",
     "static/media/m7.png": "/static/media/m7.fc0539ffaf7b81546518.png",
@@ -614,6 +614,7 @@
     "static/media/go3_xgeop.gif": "/static/media/go3_xgeop.48d690a42598b12f0f59.gif",
     "static/media/ngc6503.jpg": "/static/media/ngc6503.4c417d7745f62abed16b.jpg",
     "static/media/go3_projs.png": "/static/media/go3_projs.8f3f602e8c7ba4d15ac4.png",
+    "static/media/silica.jpg": "/static/media/silica.9f5b22a3f3c85155b849.jpg",
     "static/media/ag.png": "/static/media/ag.4815cbd27e9eff84d6a5.png",
     "static/media/ba.png": "/static/media/ba.4abafefb25781977bcd1.png",
     "static/media/cm.png": "/static/media/cm.2702e98edbc5ac24059b.png",
@@ -622,11 +623,11 @@
     "static/media/mc.png": "/static/media/mc.7899475f6240ba0722af.png",
     "static/media/go3_xgeo.png": "/static/media/go3_xgeo.06391ebe3612b64dcb7f.png",
     "index.html": "/index.html",
-    "main.8a615f4d.css.map": "/static/css/main.8a615f4d.css.map",
-    "main.eba92240.js.map": "/static/js/main.eba92240.js.map"
+    "main.ae79f43c.css.map": "/static/css/main.ae79f43c.css.map",
+    "main.6554ccee.js.map": "/static/js/main.6554ccee.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a615f4d.css",
-    "static/js/main.eba92240.js"
+    "static/css/main.ae79f43c.css",
+    "static/js/main.6554ccee.js"
   ]
 }
