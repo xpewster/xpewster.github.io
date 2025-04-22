@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ae79f43c.css",
-    "main.js": "/static/js/main.56c61dce.js",
+    "main.js": "/static/js/main.5891660a.js",
     "static/media/03202025.png": "/static/media/03202025.0276ef21942bd9b6c9da.png",
     "static/media/03202025_world.png": "/static/media/03202025_world.42f97406649a2d057878.png",
     "static/media/P1000858.jpg": "/static/media/P1000858.502e8be37895f22f9e5f.jpg",
@@ -90,6 +90,7 @@
     "static/media/m79.jpg": "/static/media/m79.b4c8b563fbdf710099da.jpg",
     "static/media/bc.png": "/static/media/bc.da2b114715b6913f4785.png",
     "static/media/smc.jpg": "/static/media/smc.98a443c2c325411e5861.jpg",
+    "static/media/mong_ulaan2.png": "/static/media/mong_ulaan2.7117150a55558f14cda4.png",
     "static/media/lmc.jpg": "/static/media/lmc.3799dd96c560a43ad4ea.jpg",
     "static/media/ngc4755.jpg": "/static/media/ngc4755.dfc0190a1333cb89c3e2.jpg",
     "static/media/m69.jpg": "/static/media/m69.a6e1b0f8c380cf72c614.jpg",
@@ -247,6 +248,7 @@
     "static/media/m22.jpg": "/static/media/m22.8a534f35921f83df5df4.jpg",
     "static/media/reg1997.png": "/static/media/reg1997.710f41112b727a846c22.png",
     "static/media/reg2014.png": "/static/media/reg2014.87c142978b5d54db5e22.png",
+    "static/media/camo_snow.png": "/static/media/camo_snow.e7c4cfd216bffaf4d27b.png",
     "static/media/blur2002.png": "/static/media/blur2002.e37eb176da117c4a0e5b.png",
     "static/media/ngc6369.jpg": "/static/media/ngc6369.d20c595d4e8afe7996a4.jpg",
     "static/media/m3.jpg": "/static/media/m3.5ed1b389f8347223603e.jpg",
@@ -656,10 +658,10 @@
     "static/media/go3_xgeo.png": "/static/media/go3_xgeo.06391ebe3612b64dcb7f.png",
     "index.html": "/index.html",
     "main.ae79f43c.css.map": "/static/css/main.ae79f43c.css.map",
-    "main.56c61dce.js.map": "/static/js/main.56c61dce.js.map"
+    "main.5891660a.js.map": "/static/js/main.5891660a.js.map"
   },
   "entrypoints": [
     "static/css/main.ae79f43c.css",
-    "static/js/main.56c61dce.js"
+    "static/js/main.5891660a.js"
   ]
 }
