@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ae79f43c.css",
-    "main.js": "/static/js/main.5891660a.js",
+    "main.js": "/static/js/main.dd57622f.js",
     "static/media/03202025.png": "/static/media/03202025.0276ef21942bd9b6c9da.png",
     "static/media/03202025_world.png": "/static/media/03202025_world.42f97406649a2d057878.png",
     "static/media/P1000858.jpg": "/static/media/P1000858.502e8be37895f22f9e5f.jpg",
@@ -496,6 +496,7 @@
     "static/media/tn.png": "/static/media/tn.de130169af51f365c4a2.png",
     "static/media/sk.png": "/static/media/sk.383ef332cab03d8c430d.png",
     "static/media/m81.jpg": "/static/media/m81.36084c83a31f028d835b.jpg",
+    "static/media/tohoku.png": "/static/media/tohoku.35563480c262dabcae74.png",
     "static/media/m76.jpg": "/static/media/m76.26fef1bd49e9dd4ca6da.jpg",
     "static/media/kodamani.gif": "/static/media/kodamani.5cbef222e313b0cc1121.gif",
     "static/media/mexico.gif": "/static/media/mexico.c959888ba1f3c9c72c58.gif",
@@ -509,6 +510,7 @@
     "static/media/az.png": "/static/media/az.eadced1a973b9cd885a1.png",
     "static/media/sm.png": "/static/media/sm.39dc9d574fdf19f6dbe3.png",
     "static/media/fl.png": "/static/media/fl.4f58934eae4b3f989b21.png",
+    "static/media/hokuriku.png": "/static/media/hokuriku.abf3920867d7f0699792.png",
     "static/media/md.png": "/static/media/md.320d8019c2187c16930c.png",
     "static/media/fo.png": "/static/media/fo.3fed1fcc38fd5469b82d.png",
     "static/media/house02.gif": "/static/media/house02.a8bd4876e16f520fdf1e.gif",
@@ -516,6 +518,7 @@
     "static/media/ns2.png": "/static/media/ns2.7710d9aff9e7d7f87a58.png",
     "static/media/ak.png": "/static/media/ak.e5cb8e9244b918aff344.png",
     "static/media/oh.png": "/static/media/oh.944d88bae03c93fc38dd.png",
+    "static/media/hokkaido.png": "/static/media/hokkaido.a0dff4456058050440f3.png",
     "static/media/m51.jpg": "/static/media/m51.2cfb194cdb709d689e45.jpg",
     "static/media/bosn.png": "/static/media/bosn.6098a4fbdf3d79de5aed.png",
     "static/media/ri.png": "/static/media/ri.a5005da02a3146ccc8d8.png",
@@ -556,7 +559,9 @@
     "static/media/nj.png": "/static/media/nj.6aa02e6d61e50e7bb5bc.png",
     "static/media/ia.png": "/static/media/ia.c962f302be7c333b64e3.png",
     "static/media/b.png": "/static/media/b.296d257aacceed30414f.png",
+    "static/media/chubu.png": "/static/media/chubu.312bfa49f4f022216b6d.png",
     "static/media/rs2.png": "/static/media/rs2.5ad0217b248d1dea7f1e.png",
+    "static/media/okinawa.png": "/static/media/okinawa.1cb3a79b2ae35338e496.png",
     "static/media/A_orange.png": "/static/media/A_orange.12706dd96f720da3052d.png",
     "static/media/A_white.png": "/static/media/A_white.2ad849844f59510894b0.png",
     "static/media/A_red.png": "/static/media/A_red.493724217fc8f18052ea.png",
@@ -568,6 +573,7 @@
     "static/media/A_red_white.png": "/static/media/A_red_white.b52d24a542c406d3a474.png",
     "static/media/A_red_orange.png": "/static/media/A_red_orange.5df8027f7cce459b75dc.png",
     "static/media/wa.png": "/static/media/wa.fd40d31c4d6edb08758a.png",
+    "static/media/kyushu.png": "/static/media/kyushu.25ccc51c15a63ca556d3.png",
     "static/media/serb.png": "/static/media/serb.61b6aea00dd0ff98c0e6.png",
     "static/media/ngc6934.jpg": "/static/media/ngc6934.316460f4aedcb6b6847a.jpg",
     "static/media/mt.png": "/static/media/mt.f5f59d85ef6635a5a701.png",
@@ -575,17 +581,20 @@
     "static/media/m99.jpg": "/static/media/m99.68797093d6e3443bad04.jpg",
     "static/media/m64.jpg": "/static/media/m64.556c4d0fb36dd6890730.jpg",
     "static/media/hung.png": "/static/media/hung.0a2b986828651a94eea0.png",
+    "static/media/kanto.png": "/static/media/kanto.f7853829331ac4cb4791.png",
     "static/media/fi.png": "/static/media/fi.f8324b792414e4b65503.png",
     "static/media/swe.png": "/static/media/swe.6e81a23a3c825a23c2a4.png",
     "static/media/se3-fi2.png": "/static/media/se3-fi2.d464a2450eec03ea7733.png",
     "static/media/pl.png": "/static/media/pl.24531069f2d1a01f62df.png",
     "static/media/Bangalore.ttf": "/static/media/Bangalore.c81b6a34105f75323522.ttf",
     "static/media/wi.png": "/static/media/wi.b064fe14bd82d2e88fce.png",
+    "static/media/chuugoku.png": "/static/media/chuugoku.2fc00a9700cbdc1e951a.png",
     "static/media/is.png": "/static/media/is.054789ef96d3006ffbb3.png",
     "static/media/swe1.png": "/static/media/swe1.ac1640b1e50cc54d06e4.png",
     "static/media/fr2.png": "/static/media/fr2.b0a2bf227df29d4c7fbf.png",
     "static/media/catagolue.png": "/static/media/catagolue.704d112cf9d5ded3ad89.png",
     "static/media/se4.png": "/static/media/se4.d1be1a30b84d0fc95723.png",
+    "static/media/kansai.png": "/static/media/kansai.3a552bf9ca60925628a2.png",
     "static/media/mk.png": "/static/media/mk.863bef650b0e04f263e3.png",
     "static/media/be.png": "/static/media/be.d14e25093c2dc59d1b6d.png",
     "static/media/B_none.png": "/static/media/B_none.30ec03834b69fd46a0ae.png",
@@ -599,6 +608,7 @@
     "static/media/ngc7009.jpg": "/static/media/ngc7009.14beb65d75ce157a4573.jpg",
     "static/media/ar.png": "/static/media/ar.734f78e1240ff809c870.png",
     "static/media/pa.png": "/static/media/pa.dc6bb35f9e683fb25f2a.png",
+    "static/media/shikoku.png": "/static/media/shikoku.752d5c703a0ca60613be.png",
     "static/media/ny.png": "/static/media/ny.89ec9c3eb88de6bed109.png",
     "static/media/bul.png": "/static/media/bul.22dae1715924e47ca291.png",
     "static/media/lux.png": "/static/media/lux.f211c49e182f2bde0a74.png",
@@ -658,10 +668,10 @@
     "static/media/go3_xgeo.png": "/static/media/go3_xgeo.06391ebe3612b64dcb7f.png",
     "index.html": "/index.html",
     "main.ae79f43c.css.map": "/static/css/main.ae79f43c.css.map",
-    "main.5891660a.js.map": "/static/js/main.5891660a.js.map"
+    "main.dd57622f.js.map": "/static/js/main.dd57622f.js.map"
   },
   "entrypoints": [
     "static/css/main.ae79f43c.css",
-    "static/js/main.5891660a.js"
+    "static/js/main.dd57622f.js"
   ]
 }
