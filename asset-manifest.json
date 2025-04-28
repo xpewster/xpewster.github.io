@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ae79f43c.css",
-    "main.js": "/static/js/main.1b905b43.js",
+    "main.js": "/static/js/main.f1b73bcd.js",
     "static/media/03202025.png": "/static/media/03202025.0276ef21942bd9b6c9da.png",
     "static/media/03202025_world.png": "/static/media/03202025_world.42f97406649a2d057878.png",
     "static/media/P1000858.jpg": "/static/media/P1000858.502e8be37895f22f9e5f.jpg",
@@ -193,6 +193,7 @@
     "static/media/ngc6723.jpg": "/static/media/ngc6723.a89eb5955265d1e6bb09.jpg",
     "static/media/ro-md.png": "/static/media/ro-md.19e5660f2181a66ec769.png",
     "static/media/ngc362.jpg": "/static/media/ngc362.91c8db6789d5619a3e14.jpg",
+    "static/media/blur2008.png": "/static/media/blur2008.8723277911a5dcb3812c.png",
     "static/media/ngc288.jpg": "/static/media/ngc288.2028217755e0561c5e34.jpg",
     "static/media/ngc2359.jpg": "/static/media/ngc2359.ed77e2db1e35615dfb1d.jpg",
     "static/media/ngc6229.jpg": "/static/media/ngc6229.d62f65ca0577455621c2.jpg",
@@ -206,7 +207,6 @@
     "static/media/camo_empty.png": "/static/media/camo_empty.156f02da9920d99c4ff3.png",
     "static/media/mong_south.png": "/static/media/mong_south.0ea41962a0e7fbe1b547.png",
     "static/media/link_malta.gif": "/static/media/link_malta.ed20139bd168f004584f.gif",
-    "static/media/blur2008.png": "/static/media/blur2008.8723277911a5dcb3812c.png",
     "static/media/reg2008.png": "/static/media/reg2008.d63cd00d259b1832adcb.png",
     "static/media/mong_ulaan.png": "/static/media/mong_ulaan.b5834ad0cfffc54bde2a.png",
     "static/media/blur2006.png": "/static/media/blur2006.a00325a3c19087356d71.png",
@@ -246,6 +246,7 @@
     "static/media/tohoku_0.png": "/static/media/tohoku_0.82deace6eac3383deae4.png",
     "static/media/reg2018.png": "/static/media/reg2018.e477d8eb0e3c7cbaaff5.png",
     "static/media/ngc6781.jpg": "/static/media/ngc6781.110dabb451e13b04f55a.jpg",
+    "static/media/blur2013.png": "/static/media/blur2013.989c3f055cb3c5e442a6.png",
     "static/media/blank2007.png": "/static/media/blank2007.dc18074547ff47ae758f.png",
     "static/media/m95.jpg": "/static/media/m95.dfd3957c9c7172c0a252.jpg",
     "static/media/ngc6334.jpg": "/static/media/ngc6334.cdab64dd3f18b7e54d33.jpg",
@@ -273,7 +274,6 @@
     "static/media/m92.jpg": "/static/media/m92.8ca9defad53ee1756800.jpg",
     "static/media/red_mirrors_no.png": "/static/media/red_mirrors_no.6e646111dea1dc7c7afb.png",
     "static/media/blur2010.png": "/static/media/blur2010.6009ee215bf4c9de2f5c.png",
-    "static/media/blur2013.png": "/static/media/blur2013.989c3f055cb3c5e442a6.png",
     "static/media/reg1983.png": "/static/media/reg1983.c6d098e0184cd38bd3d4.png",
     "static/media/depressed_tent.png": "/static/media/depressed_tent.ca7208ba34c9f59acb17.png",
     "static/media/hu2.png": "/static/media/hu2.eb37b255856fa062c39c.png",
@@ -708,10 +708,10 @@
     "static/media/go3_xgeo.png": "/static/media/go3_xgeo.06391ebe3612b64dcb7f.png",
     "index.html": "/index.html",
     "main.ae79f43c.css.map": "/static/css/main.ae79f43c.css.map",
-    "main.1b905b43.js.map": "/static/js/main.1b905b43.js.map"
+    "main.f1b73bcd.js.map": "/static/js/main.f1b73bcd.js.map"
   },
   "entrypoints": [
     "static/css/main.ae79f43c.css",
-    "static/js/main.1b905b43.js"
+    "static/js/main.f1b73bcd.js"
   ]
 }
