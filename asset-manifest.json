@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ae79f43c.css",
-    "main.js": "/static/js/main.f1b73bcd.js",
+    "main.js": "/static/js/main.4583a26f.js",
     "static/media/03202025.png": "/static/media/03202025.0276ef21942bd9b6c9da.png",
     "static/media/03202025_world.png": "/static/media/03202025_world.42f97406649a2d057878.png",
     "static/media/P1000858.jpg": "/static/media/P1000858.502e8be37895f22f9e5f.jpg",
@@ -73,6 +73,7 @@
     "static/media/petur2.gif": "/static/media/petur2.f34602770ebae9a05e55.gif",
     "static/media/ngc869.jpg": "/static/media/ngc869.d3d903821c8101c93a6b.jpg",
     "static/media/ngc884.jpg": "/static/media/ngc884.d3d903821c8101c93a6b.jpg",
+    "static/media/kansai_1.png": "/static/media/kansai_1.56ec6fbcc942a4b89d9c.png",
     "static/media/4_2right.jpg": "/static/media/4_2right.19f092e2913f5f16edf3.jpg",
     "static/media/mizar_and_alcor.jpg": "/static/media/mizar_and_alcor.445fa521fb2f0b7ae2c1.jpg",
     "static/media/chugoku_2.png": "/static/media/chugoku_2.5311a4c640a9be07d09f.png",
@@ -99,9 +100,7 @@
     "static/media/bc.png": "/static/media/bc.da2b114715b6913f4785.png",
     "static/media/smc.jpg": "/static/media/smc.98a443c2c325411e5861.jpg",
     "static/media/mong_ulaan2.png": "/static/media/mong_ulaan2.7117150a55558f14cda4.png",
-    "static/media/tohoku_2.png": "/static/media/tohoku_2.15facf4d461bf650a9ee.png",
     "static/media/lmc.jpg": "/static/media/lmc.3799dd96c560a43ad4ea.jpg",
-    "static/media/kansai_1.png": "/static/media/kansai_1.3e78bccf841278e8ebf7.png",
     "static/media/chubu_2.png": "/static/media/chubu_2.a4e9c1b5b5d001370297.png",
     "static/media/ngc4755.jpg": "/static/media/ngc4755.dfc0190a1333cb89c3e2.jpg",
     "static/media/m69.jpg": "/static/media/m69.a6e1b0f8c380cf72c614.jpg",
@@ -119,7 +118,7 @@
     "static/media/ngc752.png": "/static/media/ngc752.b938053dede785c27cd7.png",
     "static/media/m50.jpg": "/static/media/m50.ac59c4977d084cadb970.jpg",
     "static/media/chugoku_4.png": "/static/media/chugoku_4.6157d891990f55191bab.png",
-    "static/media/hokkaido_0.png": "/static/media/hokkaido_0.f3dff35813132db933ef.png",
+    "static/media/hokkaido_0.png": "/static/media/hokkaido_0.ce46cad83e3eac76d162.png",
     "static/media/kansai_0.png": "/static/media/kansai_0.9562723295a245d3e809.png",
     "static/media/m93.jpg": "/static/media/m93.9b1ea840a2829f3b7f0e.jpg",
     "static/media/m26.jpg": "/static/media/m26.b93d0a43d9bfccdfa311.jpg",
@@ -144,10 +143,10 @@
     "static/media/ngc6559.jpg": "/static/media/ngc6559.457b4de26e178666ec13.jpg",
     "static/media/0.png": "/static/media/0.cc2c8362a196fea91c8a.png",
     "static/media/mong_fareast.png": "/static/media/mong_fareast.fca1164e93ae92d26cc3.png",
+    "static/media/tohoku_2.png": "/static/media/tohoku_2.8b77d3e7d705c9b5bffe.png",
     "static/media/m61.jpg": "/static/media/m61.7e48801c926f3155fb13.jpg",
     "static/media/m24.jpg": "/static/media/m24.5c22de9b7e2d88e0fbbd.jpg",
     "static/media/tokyo_0.png": "/static/media/tokyo_0.c718152ac4cd528a4f97.png",
-    "static/media/hokkaido_2.png": "/static/media/hokkaido_2.e297a41c438be320dd6a.png",
     "static/media/m36.jpg": "/static/media/m36.85a4bbcf3898276dcf76.jpg",
     "static/media/ngc300.jpg": "/static/media/ngc300.4440ff025641b893fc8f.jpg",
     "static/media/4.png": "/static/media/4.c887d688ed6397558d16.png",
@@ -160,7 +159,6 @@
     "static/media/gen4_grey.png": "/static/media/gen4_grey.ff40ba3ea2df0894f3a1.png",
     "static/media/ngc6819.jpg": "/static/media/ngc6819.3ff05ba2e104ca4cedb6.jpg",
     "static/media/ngc3372.jpg": "/static/media/ngc3372.39dc71b6368d8da62d40.jpg",
-    "static/media/hokkaido_1.png": "/static/media/hokkaido_1.0893801816d50e645246.png",
     "static/media/ngc5897.jpg": "/static/media/ngc5897.d52484915976fc8000bd.jpg",
     "static/media/ngc7000.jpg": "/static/media/ngc7000.d332dba60e8fc295bce7.jpg",
     "static/media/m62.jpg": "/static/media/m62.70ddc29bede876d8e9ae.jpg",
@@ -269,6 +267,7 @@
     "static/media/chugoku_1.png": "/static/media/chugoku_1.1cf567901cc81f5f75c6.png",
     "static/media/blank1998.png": "/static/media/blank1998.3edb064d10e0d2651542.png",
     "static/media/reg1998.png": "/static/media/reg1998.3edb064d10e0d2651542.png",
+    "static/media/hokkaido_2.png": "/static/media/hokkaido_2.66527e9fa2bba2b891f5.png",
     "static/media/blank2015.png": "/static/media/blank2015.1945e1dba785180eebfe.png",
     "static/media/reg2013.png": "/static/media/reg2013.d1abb16fe06bdc9f23d9.png",
     "static/media/m92.jpg": "/static/media/m92.8ca9defad53ee1756800.jpg",
@@ -370,6 +369,7 @@
     "static/media/markarians_chain.jpg": "/static/media/markarians_chain.fb5589453fb7f9352d53.jpg",
     "static/media/blank2023.png": "/static/media/blank2023.8239debd80fc99485b8f.png",
     "static/media/blank1979.png": "/static/media/blank1979.4472dfab1d686bbb9552.png",
+    "static/media/hokkaido_1.png": "/static/media/hokkaido_1.c8bda8a0c4a9ca956565.png",
     "static/media/hr-bg-mk2.png": "/static/media/hr-bg-mk2.5b9f0253a6125cf00618.png",
     "static/media/blank1987.png": "/static/media/blank1987.fb5d8ca7fda2dbef9ec5.png",
     "static/media/blur1995.png": "/static/media/blur1995.9c72af8bd5785d036b2f.png",
@@ -708,10 +708,10 @@
     "static/media/go3_xgeo.png": "/static/media/go3_xgeo.06391ebe3612b64dcb7f.png",
     "index.html": "/index.html",
     "main.ae79f43c.css.map": "/static/css/main.ae79f43c.css.map",
-    "main.f1b73bcd.js.map": "/static/js/main.f1b73bcd.js.map"
+    "main.4583a26f.js.map": "/static/js/main.4583a26f.js.map"
   },
   "entrypoints": [
     "static/css/main.ae79f43c.css",
-    "static/js/main.f1b73bcd.js"
+    "static/js/main.4583a26f.js"
   ]
 }
