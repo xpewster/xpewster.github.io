@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ae79f43c.css",
-    "main.js": "/static/js/main.c8bfce2d.js",
+    "main.js": "/static/js/main.09dc58ee.js",
     "static/media/03202025.png": "/static/media/03202025.0276ef21942bd9b6c9da.png",
     "static/media/03202025_world.png": "/static/media/03202025_world.42f97406649a2d057878.png",
     "static/media/P1000858.jpg": "/static/media/P1000858.502e8be37895f22f9e5f.jpg",
@@ -328,7 +328,7 @@
     "static/media/blank2009.png": "/static/media/blank2009.5f9dd8a7b5f010a6ba6c.png",
     "static/media/reg2012_2.png": "/static/media/reg2012_2.5768e3a4f7cf7f782726.png",
     "static/media/blank1983.png": "/static/media/blank1983.b718d9263e0940d496f6.png",
-    "static/media/reg2003.png": "/static/media/reg2003.b610b913edeaa469c3d0.png",
+    "static/media/reg2003.png": "/static/media/reg2003.41d8b51aa7f5fb6e93a7.png",
     "static/media/hokuriku_0.png": "/static/media/hokuriku_0.358cdc2d98b7b0f3bb15.png",
     "static/media/reg2025.png": "/static/media/reg2025.115a9f6d47c6b4a925e5.png",
     "static/media/blur1991.png": "/static/media/blur1991.b5804a30e6522a89dd4e.png",
@@ -359,12 +359,12 @@
     "static/media/m2.jpg": "/static/media/m2.6f53c78ea7c704de7d53.jpg",
     "static/media/sp0_blur2023.png": "/static/media/sp0_blur2023.1e8a18e4bf2829327628.png",
     "static/media/m49.jpg": "/static/media/m49.2c4c4bf2a65f9dbc7bee.jpg",
-    "static/media/blur2003.png": "/static/media/blur2003.8df377b63bada5a3fcd2.png",
+    "static/media/blur2003.png": "/static/media/blur2003.11ca2618092bd20baa97.png",
     "static/media/blank2022.png": "/static/media/blank2022.c1bc9009ad2a0182301c.png",
     "static/media/blur1989.png": "/static/media/blur1989.2f00263695d21d252110.png",
     "static/media/reg1979.png": "/static/media/reg1979.5e97d40cf0a573ca2fff.png",
     "static/media/blur1981.png": "/static/media/blur1981.ab7eed17727083cac6d6.png",
-    "static/media/blank2003.png": "/static/media/blank2003.9bcd9021f97ebc06d42c.png",
+    "static/media/blank2003.png": "/static/media/blank2003.e5672f4c4ed51ae9ed14.png",
     "static/media/blank2014.png": "/static/media/blank2014.560a6aeb8bd2a470b77c.png",
     "static/media/m56.jpg": "/static/media/m56.a515c1be321ead939c26.jpg",
     "static/media/markarians_chain.jpg": "/static/media/markarians_chain.fb5589453fb7f9352d53.jpg",
@@ -454,10 +454,12 @@
     "static/media/pe.png": "/static/media/pe.c01d30f31c9394094030.png",
     "static/media/tl.png": "/static/media/tl.195822e527a5d7c6239d.png",
     "static/media/mn_old_1983_2024.png": "/static/media/mn_old_1983_2024.119c8ebdd66f06e8a908.png",
+    "static/media/reg1961.png": "/static/media/reg1961.aa5397f45999eefb8293.png",
     "static/media/ngc1073.jpg": "/static/media/ngc1073.1565549dac6aa0ac377d.jpg",
     "static/media/m29.jpg": "/static/media/m29.0721fa6acae0d3644647.jpg",
     "static/media/m42.jpg": "/static/media/m42.deb75597400dadebfbdd.jpg",
     "static/media/ns3.png": "/static/media/ns3.949cb9f2320453447769.png",
+    "static/media/blank1961.png": "/static/media/blank1961.bd3e3e24b9d901658410.png",
     "static/media/m105.jpg": "/static/media/m105.0e11605046a4a00d9962.jpg",
     "static/media/blur2020_2.png": "/static/media/blur2020_2.adb63c967bd4d5825c2e.png",
     "static/media/sk2.png": "/static/media/sk2.49e2a7e30b37cf5dbff1.png",
@@ -466,6 +468,7 @@
     "static/media/pl2.png": "/static/media/pl2.f96dfdf7db27d3cec38c.png",
     "static/media/yoshideath.mp3": "/static/media/yoshideath.08be016543dd6fcaf4be.mp3",
     "static/media/sp0_blur2015.png": "/static/media/sp0_blur2015.5ce02b5190ecb7c19fa8.png",
+    "static/media/blur1961.png": "/static/media/blur1961.affa484c4d80bb8d7508.png",
     "static/media/ngc4449.jpg": "/static/media/ngc4449.334431a313b8dbe17a31.jpg",
     "static/media/ngc7331.jpg": "/static/media/ngc7331.a4ad890520572655b22d.jpg",
     "static/media/m12.jpg": "/static/media/m12.a7839c0e5f931a344536.jpg",
@@ -538,6 +541,8 @@
     "static/media/tx.png": "/static/media/tx.8aea8d5e6af83cfa83f8.png",
     "static/media/m17.jpg": "/static/media/m17.d6e006313347147a9058.jpg",
     "static/media/ngc2169.jpg": "/static/media/ngc2169.764e4b7e5c2f0eef9a93.jpg",
+    "static/media/blur1972.png": "/static/media/blur1972.90defeb2ae3901312b05.png",
+    "static/media/reg1972.png": "/static/media/reg1972.1dd428c39a2bd8bf1812.png",
     "static/media/tn.png": "/static/media/tn.de130169af51f365c4a2.png",
     "static/media/sk.png": "/static/media/sk.383ef332cab03d8c430d.png",
     "static/media/m81.jpg": "/static/media/m81.36084c83a31f028d835b.jpg",
@@ -558,6 +563,7 @@
     "static/media/hokuriku.png": "/static/media/hokuriku.abf3920867d7f0699792.png",
     "static/media/md.png": "/static/media/md.320d8019c2187c16930c.png",
     "static/media/fo.png": "/static/media/fo.3fed1fcc38fd5469b82d.png",
+    "static/media/blank1972.png": "/static/media/blank1972.02f81f7605682b11a66d.png",
     "static/media/house02.gif": "/static/media/house02.a8bd4876e16f520fdf1e.gif",
     "static/media/no.png": "/static/media/no.1494c2f3c3d3b088c42a.png",
     "static/media/ns2.png": "/static/media/ns2.7710d9aff9e7d7f87a58.png",
@@ -714,10 +720,10 @@
     "static/media/go3_xgeo.png": "/static/media/go3_xgeo.06391ebe3612b64dcb7f.png",
     "index.html": "/index.html",
     "main.ae79f43c.css.map": "/static/css/main.ae79f43c.css.map",
-    "main.c8bfce2d.js.map": "/static/js/main.c8bfce2d.js.map"
+    "main.09dc58ee.js.map": "/static/js/main.09dc58ee.js.map"
   },
   "entrypoints": [
     "static/css/main.ae79f43c.css",
-    "static/js/main.c8bfce2d.js"
+    "static/js/main.09dc58ee.js"
   ]
 }
