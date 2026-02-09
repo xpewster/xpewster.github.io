@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.b1d4f678.css",
-    "main.js": "/static/js/main.1202d99b.js",
+    "main.js": "/static/js/main.b0df4f1a.js",
+    "static/media/yangwenli.png": "/static/media/yangwenli.113a3df0ca98e4de4975.png",
     "static/media/11012025.png": "/static/media/11012025.df55778ad4aa3449f021.png",
     "static/media/03202025.png": "/static/media/03202025.0276ef21942bd9b6c9da.png",
     "static/media/11012025_world.png": "/static/media/11012025_world.50ecbfaf0d14a65f79fe.png",
     "static/media/06282025_world.png": "/static/media/06282025_world.36e1b02d65b3fac231f2.png",
+    "static/media/sketchbook.gif": "/static/media/sketchbook.27115739672878d09725.gif",
     "static/media/03202025_world.png": "/static/media/03202025_world.42f97406649a2d057878.png",
     "static/media/nuke.png": "/static/media/nuke.d83bc7438517b7dba266.png",
     "static/media/P1000858.jpg": "/static/media/P1000858.502e8be37895f22f9e5f.jpg",
@@ -39,6 +41,7 @@
     "static/media/m77.png": "/static/media/m77.a9e994da968bd24dc82a.png",
     "static/media/ngc3132.png": "/static/media/ngc3132.a6c62636e99b1bd95df9.png",
     "static/media/m52.png": "/static/media/m52.60263b5c170e6ba0a260.png",
+    "static/media/space.gif": "/static/media/space.07baf9ca450798258fa7.gif",
     "static/media/ngc1499.png": "/static/media/ngc1499.4e7e19eae3df2a77ecd1.png",
     "static/media/ic2391.png": "/static/media/ic2391.80d7cde6f84ba8f6f77c.png",
     "static/media/reg2010.png": "/static/media/reg2010.8e4b1f758837412e2df4.png",
@@ -47,6 +50,7 @@
     "static/media/m102.png": "/static/media/m102.67018bfbf0e5a05db339.png",
     "static/media/P1000991.jpg": "/static/media/P1000991.92d797d90479ce836519.jpg",
     "static/media/ic342.png": "/static/media/ic342.7bee097a35511e4647a1.png",
+    "static/media/michelle_lobster.png": "/static/media/michelle_lobster.8fede12aa2480d8a3b07.png",
     "static/media/m65.png": "/static/media/m65.bd40b1e51443c285c016.png",
     "static/media/messy_left.png": "/static/media/messy_left.0cc3669a767facd4da25.png",
     "static/media/single_knot.png": "/static/media/single_knot.725abf4ca6a54d534ff3.png",
@@ -55,6 +59,7 @@
     "static/media/mongolia.png": "/static/media/mongolia.a46e628fa95570c36b72.png",
     "static/media/perfectfully_packed.png": "/static/media/perfectfully_packed.c4db9d07e9f69bd81be3.png",
     "static/media/ngc2440.png": "/static/media/ngc2440.8a64ad7cdd8b348eac22.png",
+    "static/media/diakko3.png": "/static/media/diakko3.27ae07b6ca64e603cac3.png",
     "static/media/left_inflated.png": "/static/media/left_inflated.82cbf8c0dc4537383218.png",
     "static/media/m75.png": "/static/media/m75.f384051f0042f53304aa.png",
     "static/media/ngc6397.png": "/static/media/ngc6397.b80709d11ccdac9445cd.png",
@@ -63,6 +68,7 @@
     "static/media/m27.png": "/static/media/m27.5680ba0a901a39aa9e04.png",
     "static/media/P1000921.jpg": "/static/media/P1000921.5cac0519e19147867d45.jpg",
     "static/media/double_knot.png": "/static/media/double_knot.8e3e2eae4fa46c848fae.png",
+    "static/media/akkofish_shrimp.png": "/static/media/akkofish_shrimp.f94fa0094ea26f846b41.png",
     "static/media/peturland1.png": "/static/media/peturland1.2cc51322c04fb41ce28c.png",
     "static/media/messy_right.png": "/static/media/messy_right.aa652dd97797e24be76d.png",
     "static/media/canada-area-code-map.png": "/static/media/canada-area-code-map.19ce0192d91246ceb539.png",
@@ -92,6 +98,7 @@
     "static/media/ngc884.jpg": "/static/media/ngc884.d3d903821c8101c93a6b.jpg",
     "static/media/kansai_1.png": "/static/media/kansai_1.56ec6fbcc942a4b89d9c.png",
     "static/media/4_2right.jpg": "/static/media/4_2right.19f092e2913f5f16edf3.jpg",
+    "static/media/frieren.png": "/static/media/frieren.9131763d0446fc68c9ba.png",
     "static/media/mizar_and_alcor.jpg": "/static/media/mizar_and_alcor.445fa521fb2f0b7ae2c1.jpg",
     "static/media/bananafish.png": "/static/media/bananafish.1af730acf110ff4ecebc.png",
     "static/media/chugoku_2.png": "/static/media/chugoku_2.5311a4c640a9be07d09f.png",
@@ -754,10 +761,10 @@
     "static/media/go3_xgeo.png": "/static/media/go3_xgeo.06391ebe3612b64dcb7f.png",
     "index.html": "/index.html",
     "main.b1d4f678.css.map": "/static/css/main.b1d4f678.css.map",
-    "main.1202d99b.js.map": "/static/js/main.1202d99b.js.map"
+    "main.b0df4f1a.js.map": "/static/js/main.b0df4f1a.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d4f678.css",
-    "static/js/main.1202d99b.js"
+    "static/js/main.b0df4f1a.js"
   ]
 }
