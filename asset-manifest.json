@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2cea419a.css",
-    "main.js": "/static/js/main.9328a081.js",
+    "main.js": "/static/js/main.c9d4fd41.js",
     "static/media/yangwenli.png": "/static/media/yangwenli.113a3df0ca98e4de4975.png",
     "static/media/11012025.png": "/static/media/11012025.df55778ad4aa3449f021.png",
     "static/media/03202025.png": "/static/media/03202025.0276ef21942bd9b6c9da.png",
@@ -779,6 +779,7 @@
     "static/media/11.png": "/static/media/11.4798c75cf83cfdb2951d.png",
     "static/media/ga.png": "/static/media/ga.b4f9bedc23a9a65083a0.png",
     "static/media/tr2.png": "/static/media/tr2.8ac5d87008c2eb2672c9.png",
+    "static/media/despairRe.gif": "/static/media/despairRe.5388f85cc27f76ff99df.gif",
     "static/media/hr.png": "/static/media/hr.ffdb034dfe69e2e9e238.png",
     "static/media/by.png": "/static/media/by.abdda0c5708e82a0f660.png",
     "static/media/go3_soonp.gif": "/static/media/go3_soonp.cbf7b097699d51f42373.gif",
@@ -802,10 +803,10 @@
     "static/media/go3_xgeo.png": "/static/media/go3_xgeo.06391ebe3612b64dcb7f.png",
     "index.html": "/index.html",
     "main.2cea419a.css.map": "/static/css/main.2cea419a.css.map",
-    "main.9328a081.js.map": "/static/js/main.9328a081.js.map"
+    "main.c9d4fd41.js.map": "/static/js/main.c9d4fd41.js.map"
   },
   "entrypoints": [
     "static/css/main.2cea419a.css",
-    "static/js/main.9328a081.js"
+    "static/js/main.c9d4fd41.js"
   ]
 }
