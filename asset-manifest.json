@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2cea419a.css",
-    "main.js": "/static/js/main.93b66e0d.js",
+    "main.js": "/static/js/main.84dab0a9.js",
     "static/media/yangwenli.png": "/static/media/yangwenli.113a3df0ca98e4de4975.png",
     "static/media/08042026.png": "/static/media/08042026.70eec63b20d98c723691.png",
     "static/media/11012025.png": "/static/media/11012025.df55778ad4aa3449f021.png",
@@ -196,6 +196,7 @@
     "static/media/m41.jpg": "/static/media/m41.98ded0e42765889edb51.jpg",
     "static/media/1_2.png": "/static/media/1_2.5d95d7cca233bf6010c7.png",
     "static/media/ngc6541.jpg": "/static/media/ngc6541.df1fc72c3df6b005add1.jpg",
+    "static/media/akkoantique.png": "/static/media/akkoantique.498c3643e9c5081387a9.png",
     "static/media/mong_centralwest.png": "/static/media/mong_centralwest.10286fd2b664aac1f3ca.png",
     "static/media/ngc6760.jpg": "/static/media/ngc6760.1976d50c3767ee8c4bb2.jpg",
     "static/media/in.png": "/static/media/in.dcade44ba690af1fea5c.png",
@@ -838,10 +839,10 @@
     "static/media/go3_xgeo.png": "/static/media/go3_xgeo.06391ebe3612b64dcb7f.png",
     "index.html": "/index.html",
     "main.2cea419a.css.map": "/static/css/main.2cea419a.css.map",
-    "main.93b66e0d.js.map": "/static/js/main.93b66e0d.js.map"
+    "main.84dab0a9.js.map": "/static/js/main.84dab0a9.js.map"
   },
   "entrypoints": [
     "static/css/main.2cea419a.css",
-    "static/js/main.93b66e0d.js"
+    "static/js/main.84dab0a9.js"
   ]
 }
